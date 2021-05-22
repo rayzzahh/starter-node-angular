@@ -85,7 +85,7 @@ function sshConnect() {
   ssh
     .connect({
       // TODO: ADD YOUR IP ADDRESS BELOW (e.g. '12.34.5.67')
-      host: '54.89.158.181',
+      host: '54.242.37.73',
       username: 'ubuntu',
       privateKey: 'pantheon.pem'
     })
